@@ -109,7 +109,7 @@ Computer Configuration > Administrative Templates > Windows Components > OneDriv
 - **Intel SpeedStep/AMD Cool'n'Quiet**: Disabled
 - **Spread Spectrum**: Disabled
 
-### 2. NVIDIA Control Panel (คุณปรับดีแล้ว แต่เช็คอีกที)
+### 2. NVIDIA Control Panel
 - Low Latency Mode: **Ultra**
 - Power Management: **Prefer Maximum Performance**
 - Threaded Optimization: **Off** (บางเกม)
