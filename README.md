@@ -30,10 +30,8 @@
 
 ### ขั้นตอนที่ 3: รัน Priority Booster (ทุกครั้งก่อนเล่น)
 
-```powershell
-# วิธีที่ 1: คลิกขวา → Run with PowerShell
-# วิธีที่ 2: สร้าง shortcut ไว้รันทุกครั้งก่อนเข้าเกม
-```
+1. คลิกขวา `FiveM_Priority.ps1` → **Run with PowerShell** (as Administrator)
+2. เข้าเล่น Fivem
 
 ---
 
