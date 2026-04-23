@@ -46,7 +46,7 @@ Computer Configuration > Administrative Templates > Network > QoS Packet Schedul
 ### 2. TCP/IP สำหรับเกม
 ```
 Computer Configuration > Windows Settings > Policy-based QoS
-→ สร้าง New Policy สำหรับ FiveM.exe priority = Realtime
+→ สร้าง New Policy สำหรับ FiveM.exe Specify DSCP Value → ใส่ 46 (UDP Only)
 ```
 
 ### 3. Latency Optimization
